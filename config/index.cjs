@@ -45,10 +45,6 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2022-08-12' },
     },
   ],
-  SWITCH: {
-    // 古诗古文, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    poetry: false,  
-  },
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
   CALLBACK_TEMPLATE_ID: 'o6hU36josZlPx2U2yU7-rNf1p1pI',
 
